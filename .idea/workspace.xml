@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="969dcb00-ec78-419e-8936-485fdc1549f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula5/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula5/labs/OlaMundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula6/Argumentos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula6/labs/Argumento2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula8/matrizes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex10">
+  <component name="RunManager" selected="Application.matrizes">
     <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex10" />
       <module name="curso-java-basic" />
@@ -68,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex6" />
+    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex11" />
       <module name="curso-java-basic" />
       <extension name="coverage">
         <pattern>
@@ -81,21 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex7" />
-      <module name="curso-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula7.labs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex8" />
+    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex12" />
       <module name="curso-java-basic" />
       <extension name="coverage">
         <pattern>
@@ -120,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="matrizes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.matrizes" />
+      <module name="curso-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.matrizes" />
+        <item itemvalue="Application.Ex12" />
+        <item itemvalue="Application.Ex11" />
         <item itemvalue="Application.Ex10" />
         <item itemvalue="Application.Ex9" />
-        <item itemvalue="Application.Ex8" />
-        <item itemvalue="Application.Ex7" />
-        <item itemvalue="Application.Ex6" />
       </list>
     </recent_temporary>
   </component>
