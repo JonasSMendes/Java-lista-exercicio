@@ -21,6 +21,7 @@ public class matrizes {
             System.out.println();
         }
         System.out.println();
+
         listasMatrizes[1][1] = 0;
 
         for (int i = 0; i < listasMatrizes.length; i++) {

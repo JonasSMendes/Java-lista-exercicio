@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="969dcb00-ec78-419e-8936-485fdc1549f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula8/matrizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula8/Matriz3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula8/MatrizIrregular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula8/labs/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula8/labs/Ex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula7/labs/Ex11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula8/matrizes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula8/matrizes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +40,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.matrizes">
-    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex10" />
+  <component name="RunManager" selected="Application.Ex2">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.labs.Ex1" />
       <module name="curso-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula7.labs.*" />
+          <option name="PATTERN" value="aula8.labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex11" />
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.labs.Ex2" />
       <module name="curso-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula7.labs.*" />
+          <option name="PATTERN" value="aula8.labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex12" />
+    <configuration name="Matriz3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.Matriz3D" />
       <module name="curso-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula7.labs.*" />
+          <option name="PATTERN" value="aula8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula7.labs.Ex9" />
+    <configuration name="MatrizIrregular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula8.MatrizIrregular" />
       <module name="curso-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula7.labs.*" />
+          <option name="PATTERN" value="aula8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.MatrizIrregular" />
+        <item itemvalue="Application.Matriz3D" />
         <item itemvalue="Application.matrizes" />
-        <item itemvalue="Application.Ex12" />
-        <item itemvalue="Application.Ex11" />
-        <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.Ex9" />
       </list>
     </recent_temporary>
   </component>
